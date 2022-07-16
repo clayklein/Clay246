@@ -6,5 +6,5 @@ Noteable Repositories:
 - [All-Animations](https://github.com/Clay246/All-Animations) - A collection of animations I've created with mplanimations
 
 <p align="center">
-<img class="marginauto" src="https://github.com/Clay246/All-Animations/blob/master/n-bodyName/n-bodyName.gif" width=45% title="n-bodyName"/>
+<img class="marginauto" src="https://github.com/Clay246/All-Animations/blob/master/n-bodyName/n-bodyName.gif" width=75% title="n-bodyName"/>
 </p>
